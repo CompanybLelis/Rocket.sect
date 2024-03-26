@@ -1,6 +1,6 @@
 # Projeto Rocket.sect
 
-Este é o projeto Treine.me, um site desenvolvido utilizando HTML e CSS. O objetivo deste projeto é aplicar conceitos fundamentais de desenvolvimento web, incluindo o uso de tags semânticas do HTML, estilização de elementos usando CSS e práticas de acessibilidade.
+Este é o projeto Rocket.sect, um site desenvolvido utilizando HTML e CSS. O objetivo deste projeto é aplicar conceitos fundamentais de desenvolvimento web, incluindo o uso de tags semânticas do HTML, estilização de elementos usando CSS e práticas de acessibilidade.
 
 ![Cover-Rocket.sect](https://github.com/CompanybLelis/Rocket.sect/assets/69200014/5153a242-3ae8-4c66-9c22-fcbfbbe6e4ab)
 
